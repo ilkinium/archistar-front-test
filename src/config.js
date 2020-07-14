@@ -1,6 +1,6 @@
 export default {
-    MAPBOX_GL_ACCESS_TOKEN: 'pk.eyJ1Ijoia3VraGFyZW5rbyIsImEiOiJja2JhcTIyNWMwN3NmMnpuM2dnYnJwNm13In0.D44fuJobZ20-6Ua9Gg7HEQ',
-    MAPBOX_GL_STYLE: 'mapbox://styles/mapbox/outdoors-v11',
-    ZOOM: 14.6,
-    SPEED: 1
+    MAPBOX_GL_ACCESS_TOKEN: 'pk.eyJ1IjoiaWxraW4tZmxleWRhbmxpIiwiYSI6ImNrY2xzMHQ0MTFpejEyeHM1NnhseGNweDEifQ.fEQB_Wvm-OK5oozMhuR9Pw',
+    MAPBOX_GL_STYLE: 'mapbox://styles/mapbox/bright-v8',
+    ZOOM: 15,
+    SPEED: 1.2
 }
